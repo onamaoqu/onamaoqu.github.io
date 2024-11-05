@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onamaoqu.github.io/MCR/sitemap_index.txt
+Sitemap: https://onamaoqu.github.io/PYf/sitemap_index.txt
+Sitemap: https://onamaoqu.github.io/ajs/sitemap_index.txt
+Sitemap: https://onamaoqu.github.io/sSk/sitemap_index.txt
